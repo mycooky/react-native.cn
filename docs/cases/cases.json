@@ -1,5 +1,12 @@
 [
 	{
+		"name": "淘领优惠券",
+		"desc": "淘宝优惠券精选",
+		"ios": "http://t.cn/R0yWSLi",
+		"android": "http://www.mtao18.com/app/taoling.apk",
+		"icon": "http://is5.mzstatic.com/image/thumb/Purple128/v4/11/a0/1a/11a01a95-1eae-d68d-c2da-b286fac0650e/source/200x200.jpg"
+	},
+	{
 		"name": "京东金融",
 		"desc": "金融生活服务平台",
 		"ios": "https://itunes.apple.com/cn/app/id895682747?mt=8",
